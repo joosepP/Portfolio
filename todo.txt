@@ -1,0 +1,7 @@
+
+{
+    -pilt korda
+    -tweeti kast korda
+    -live feed korda
+    -taustav'rv
+}

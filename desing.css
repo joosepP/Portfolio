@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/*Index*/
+.navbar{
+    border-bottom: 2px solid black;
+}
+
+.container-fluid{
+    padding-top: 110px;
+}
+
+img#downArrow{
+    display: block;
+    margin: auto;
+    width: 50px;
+    margin-top: 300px;
+}
+
+.container-fluid#textSection{
+    padding-top: 1500px;
+    padding-bottom: 200px;
+}
+
+.col#commText{
+    font-size: 2rem;
+}
+
+#footerPic{
+    display: block;
+    margin: auto;
+}
+
+
+/*Live*/
+/*1*/
+.jumbotron#showCase{
+    margin-top: 50px;
+}
+
+.container#liveContainer{
+    border-bottom: 1px solid black;
+}
+
+.container#twaatSection{
+    padding-left: 5px;
+    
+    
+}
+
+a#userName{
+    font-weight: bold;
+}
+
+.container#profilePic{
+    width: 70px;
+    height: 50px;
+    position: relative;
+    float: left;   
+}
+
+img#liveProfilePic{
+    border-radius: 50%;
+    margin-left: -9px;
+    margin-top: 10px; 
+}
+
+/*2*/
+
+.container#liveContainer2{
+    padding-top: 20px;
+    border-bottom: 1px solid black;
+}
